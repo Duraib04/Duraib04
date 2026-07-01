@@ -1,10 +1,45 @@
+<!-- ===================================================== -->
+<!--                 PREMIUM GITHUB PROFILE                -->
+<!--                  PART 1 OF 4                          -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-# Hi 👋 I'm Durai B
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Durai%20B&fontSize=65&fontAlignY=40&animation=fadeIn&desc=IoT%20Engineer%20|%20Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=IoT+Engineer;Full+Stack+Developer;AI+Enthusiast;Entrepreneur;Always+Learning+New+Things🚀" />
+# 👋 Hi, I'm Durai B
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=IoT+Engineer;Full+Stack+Developer;AI+Enthusiast;Entrepreneur;Open+Source+Learner;Building+Smart+Solutions+with+AI+and+IoT🚀;Always+Learning+New+Technologies"/>
 
 <img src="https://komarev.com/ghpvc/?username=Duraib04&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Duraib04?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Duraib04?affiliations=OWNER&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Developer Badges
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IoT-Developer-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Firebase-Developer-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NodeJS-Backend-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud-Learner-blueviolet?style=for-the-badge"/>
 
 </div>
 
@@ -12,27 +47,30 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 B.E CSE (IoT) Student
+🎓 **B.E CSE (Internet of Things)**
 
-🏫 KSR College of Engineering
+🏫 **KSR College of Engineering**
 
-💼 Founder of DD IoT Solutions
+💼 **Founder of DD IoT Solutions**
 
-💡 Passionate about AI, IoT & Full Stack Development
+🌍 Tamil Nadu, India 🇮🇳
 
-🌱 Currently Learning
+💡 Passionate about
 
 - Artificial Intelligence
+- Internet of Things
+- Full Stack Development
+- Modern UI/UX
+- Automation
 - Cloud Computing
-- Advanced Full Stack
-- Embedded Systems
 
 🏆 National Level Hackathon Runner-Up
 
-🎯 Goal:
-Become a Software Engineer in a Top MNC
+🎯 Goal
+
+> Become a Software Engineer at a Top Product-Based Company.
 
 ---
 
@@ -45,7 +83,7 @@ Become a Software Engineer in a Top MNC
 </a>
 
 <a href="https://duraib.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="https://github.com/Duraib04">
@@ -54,8 +92,21 @@ Become a Software Engineer in a Top MNC
 
 </p>
 
-Email:
+---
+
+# 📧 Contact
+
+📩 Email
+
 **itsdurai4@gmail.com**
+
+🌐 Portfolio
+
+https://duraib.vercel.app
+
+🐙 GitHub
+
+https://github.com/Duraib04
 
 ---
 
@@ -63,103 +114,160 @@ Email:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,firebase,supabase,git,github,vscode,figma,arduino,raspberrypi,linux&perline=8"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,supabase,git,github,vscode,figma,arduino,raspberrypi,linux,aws,postman,bootstrap,tailwind&perline=9"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🛠 Languages
 
-| Project | Description |
-|---------|-------------|
-| 🤖 Jarvis AI | AI Voice Assistant |
-| 🏫 Smart Classroom | IoT Smart Classroom |
-| 🏢 DD IoT Solutions | Smart Home & IoT |
-| 🎮 TimePassing | Browser Games |
-| 🌐 Portfolio | Personal Website |
-| 📚 NCC Study Portal | Learning Platform |
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duraib04&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duraib04&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- C
+- C++
+- Java
+- Python
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
 
 ---
 
-# 🔥 GitHub Streak
+# ⚙ Frameworks
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Duraib04&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Duraib04&theme=tokyo-night&hide_border=true"/>
-
-</p>
+- React
+- Next.js
+- Express.js
+- Bootstrap
+- Tailwind CSS
+- Node.js
 
 ---
 
-# 🏆 GitHub Trophies
+# 🗄 Database
 
-<p align="center">
+- MongoDB
 
-<img src="https://github-profile-trophy.vercel.app/?username=Duraib04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
+- MySQL
 
-</p>
+- Firebase Firestore
 
----
-
-# ⚡ Coding Activity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duraib04&theme=tokyonight"/>
-
-</p>
+- Supabase
 
 ---
 
-# 📊 GitHub Summary
+# ☁ Cloud
 
-<p align="center">
+- AWS
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Duraib04&theme=tokyonight"/>
+- Firebase
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Duraib04&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Duraib04&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Duraib04&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
+- Vercel
 
 ---
 
-# 💬 Quote
+# 🤖 AI Tools
 
-> **"I don't just build projects. I build solutions that make an impact." 🚀**
+- ChatGPT
+
+- GitHub Copilot
+
+- Gemini
+
+- Claude
+
+- Cursor AI
+
+- Lovable AI
+
+- Bolt.new
+
+---
+
+# 🔌 IoT Platforms
+
+- ESP32
+
+- Arduino
+
+- Raspberry Pi
+
+- MQTT
+
+- ThingSpeak
+
+- NodeMCU
+
+- Sensors
+
+- Smart Home Automation
+
+---
+
+# 🎨 Design Tools
+
+- Figma
+
+- Canva
+
+- Photoshop (Basic)
+
+---
+
+# 💼 Currently Working On
+
+🚀 DD IoT Solutions
+
+🏠 Smart Home Automation
+
+🤖 AI Web Applications
+
+🌐 Full Stack Projects
+
+📱 Progressive Web Apps
+
+📚 NCC Study Portal
+
+---
+
+# 🎯 Learning
+
+- Advanced React
+
+- AI Integration
+
+- Cloud Computing
+
+- DevOps
+
+- Docker
+
+- Kubernetes
+
+- System Design
+
+- Machine Learning
+
+---
+
+# ❤️ Hobbies
+
+💻 Coding
+
+📖 Learning New Technologies
+
+🎮 Gaming
+
+🎵 Music
+
+🚀 Building Side Projects
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for Visiting!
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+### ⭐ Part 1 Complete ⭐
 
 </div>
