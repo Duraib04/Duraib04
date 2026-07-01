@@ -1,143 +1,104 @@
-<h1 align="center">Hi 👋, I'm Durai B</h1>
+<div align="center">
 
-<h3 align="center">
-IoT Engineer | Full Stack Developer | AI Enthusiast | Entrepreneur
-</h3>
+# Hi 👋 I'm Durai B
 
-<p align="center">
-Building Smart IoT Solutions • AI Applications • Modern Web Apps
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=IoT+Engineer;Full+Stack+Developer;AI+Enthusiast;Entrepreneur;Always+Learning+New+Things🚀" />
+
+<img src="https://komarev.com/ghpvc/?username=Duraib04&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 🚀 About Me
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 🎓 B.E CSE (IoT) Student
-- 🏫 KSR College of Engineering
-- 💼 Founder of DD IoT Solutions
-- 🌱 Currently learning
-  - Advanced Full Stack Development
-  - Artificial Intelligence
-  - Cloud Computing
-  - Embedded Systems
-- 💡 Love building real-world IoT products
-- 🏆 National Level Hackathon Runner-Up
-- 🎯 Goal: Software Engineer @ Top MNC
+## 🚀 About Me
+
+🎓 B.E CSE (IoT) Student
+
+🏫 KSR College of Engineering
+
+💼 Founder of DD IoT Solutions
+
+💡 Passionate about AI, IoT & Full Stack Development
+
+🌱 Currently Learning
+
+- Artificial Intelligence
+- Cloud Computing
+- Advanced Full Stack
+- Embedded Systems
+
+🏆 National Level Hackathon Runner-Up
+
+🎯 Goal:
+Become a Software Engineer in a Top MNC
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:itsdurai4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://duraib.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Duraib04">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+Email:
+**itsdurai4@gmail.com**
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
-
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
-
-### Frontend
-
-- HTML5
-- CSS3
-- Bootstrap
-- React.js
-- Tailwind CSS
-
-### Backend
-
-- Node.js
-- Express.js
-- Firebase
-- Supabase
-
-### Database
-
-- MySQL
-- MongoDB
-- Firebase Firestore
-
-### IoT
-
-- ESP32
-- Arduino
-- Raspberry Pi
-- MQTT
-- Sensors
-- Home Automation
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Figma
-- Vercel
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 Jarvis AI Assistant
-
-AI Voice Assistant with Modern UI
-
-🔗 https://durai-jarvis.vercel.app
-
----
-
-## 🏫 Smart Classroom
-
-IoT + Attendance + Dashboard
-
-🔗 https://ourclassroom.vercel.app
-
----
-
-## 🏢 DD IoT Solutions
-
-Professional IoT Products & Services
-
-🔗 https://dd-products.vercel.app
-
----
-
-## 🎮 Time Passing Games
-
-Mini Games Collection
-
-🔗 https://timepassing.vercel.app
-
----
-
-## 🌐 Portfolio
-
-Personal Portfolio Website
-
-🔗 https://duraib.vercel.app
-
----
-
-# 📊 GitHub Stats
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Duraib04&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Duraib04&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duraib04&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,firebase,supabase,git,github,vscode,figma,arduino,raspberrypi,linux&perline=8"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 Jarvis AI | AI Voice Assistant |
+| 🏫 Smart Classroom | IoT Smart Classroom |
+| 🏢 DD IoT Solutions | Smart Home & IoT |
+| 🎮 TimePassing | Browser Games |
+| 🌐 Portfolio | Personal Website |
+| 📚 NCC Study Portal | Learning Platform |
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Duraib04&theme=tokyonight&margin-w=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duraib04&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duraib04&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Duraib04&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -145,20 +106,60 @@ Personal Portfolio Website
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Duraib04&theme=tokyo-night"/>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Duraib04&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-# 🌍 Connect with Me
+# 🏆 GitHub Trophies
 
-- 🌐 Portfolio: https://duraib.vercel.app
-- 💼 LinkedIn: https://linkedin.com/in/
-- 📧 Email: your-email@gmail.com
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Duraib04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
+
+</p>
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Coding Activity
 
-> "I don't just build projects—I build solutions."
+<p align="center">
 
-⭐ Thanks for visiting my profile!
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duraib04&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Duraib04&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Duraib04&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Duraib04&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Duraib04&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"I don't just build projects. I build solutions that make an impact." 🚀**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for Visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+
+</div>
