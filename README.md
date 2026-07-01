@@ -799,3 +799,242 @@ Maintenance 🔄
 ## ⭐ End of Part 3 ⭐
 
 </div>
+<!-- ===================================================== -->
+<!--                 PREMIUM GITHUB PROFILE                -->
+<!--                  PART 4 OF 4                          -->
+<!-- ===================================================== -->
+
+---
+
+# 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Status |
+|------|:------:|
+| 🚀 Build 100+ Projects | 🔄 In Progress |
+| 🌟 1000+ GitHub Contributions | 🔄 |
+| 💼 Get Software Engineer Internship | 🎯 |
+| 🤖 Build AI SaaS Product | 🎯 |
+| 🏠 Expand DD IoT Solutions | 🎯 |
+| ☁ Learn AWS & DevOps | 🔄 |
+| 🧠 Master System Design | 🎯 |
+| 🌍 Contribute to Open Source | 🔄 |
+
+</div>
+
+---
+
+# 🏅 Certifications
+
+- ✅ Full Stack Development
+- ✅ Internet of Things (IoT)
+- ✅ Firebase Development
+- ✅ Git & GitHub
+- ✅ Artificial Intelligence Tools
+- ✅ Responsive Web Design
+- 🔄 AWS Cloud (Learning)
+- 🔄 Docker & Kubernetes (Learning)
+
+---
+
+# 💼 Experience
+
+### 🚀 Founder — DD IoT Solutions
+
+- Smart Home Automation
+- AI Applications
+- IoT Product Development
+- Embedded Systems
+- Full Stack Web Development
+- Progressive Web Apps
+
+---
+
+# 🛠 Development Environment
+
+```text
+💻 OS        : Windows 11
+📝 Editor    : Visual Studio Code
+🌐 Browser   : Google Chrome
+☁ Hosting    : Vercel
+🔥 Backend    : Firebase / Supabase
+🐙 Version    : Git & GitHub
+```
+
+---
+
+# 📚 Favorite Technologies
+
+- 🤖 Artificial Intelligence
+- 📡 Internet of Things
+- ⚛ React
+- 🟢 Node.js
+- 🔥 Firebase
+- 🐍 Python
+- ☁ AWS
+- 🐳 Docker
+- 🗄 MongoDB
+- 🐬 MySQL
+
+---
+
+# 📈 Coding Philosophy
+
+> **"Write code that solves problems, not just code that runs."**
+
+---
+
+# 🌟 Open Source
+
+I enjoy:
+
+- 🌍 Contributing to open-source projects
+- 🛠 Building reusable tools
+- 📚 Sharing knowledge
+- 💡 Learning from the developer community
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+- 🤖 AI Projects
+- 📡 IoT Solutions
+- 🌐 Full Stack Applications
+- 📱 PWAs
+- ☁ Cloud Projects
+- 🧠 Open Source
+
+---
+
+# 📬 Reach Me
+
+📧 Email:
+
+**itsdurai4@gmail.com**
+
+🌐 Portfolio
+
+https://duraib.vercel.app
+
+🐙 GitHub
+
+https://github.com/Duraib04
+
+---
+
+# ❤️ Support
+
+If you like my work:
+
+⭐ Star my repositories
+
+🍴 Fork my projects
+
+🤝 Connect with me
+
+💬 Share feedback
+
+---
+
+# 💬 Random Quote
+
+> **"Great software is built one commit at a time."**
+
+---
+
+# 🧩 Fun Facts
+
+- 💻 I love building real-world applications.
+- 🚀 I enjoy learning emerging technologies.
+- 🤖 AI + IoT is my favorite combination.
+- 🌍 I believe technology should solve real problems.
+- ☕ Coffee and coding make a great team.
+
+---
+
+# 🐍 Snake Animation (Requires GitHub Action)
+
+```md
+<p align="center">
+<img src="https://raw.githubusercontent.com/Duraib04/Duraib04/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
+
+---
+
+# 📊 Metrics Dashboard (Requires GitHub Action)
+
+```md
+<img src="./github-metrics.svg"/>
+```
+
+---
+
+# 🎵 Spotify (Optional)
+
+Replace `YOUR_SPOTIFY_USER_ID`:
+
+```md
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view)
+```
+
+---
+
+# 🏅 Holopin (Optional)
+
+Replace `YOUR_USERNAME`:
+
+```md
+[![@YOUR_USERNAME's Holopin board](https://holopin.me/YOUR_USERNAME)](https://holopin.io/@YOUR_USERNAME)
+```
+
+---
+
+# 📌 Pinned Projects
+
+⭐ Jarvis AI
+
+⭐ Smart Classroom
+
+⭐ DD IoT Solutions
+
+⭐ Portfolio
+
+⭐ NCC Study Portal
+
+⭐ TimePassing Games
+
+---
+
+# 👨‍💻 Visitor Message
+
+<div align="center">
+
+### Thank you for visiting my GitHub profile! ❤️
+
+If you find my projects useful, don't forget to ⭐ star them.
+
+Let's build amazing things together! 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6a11cb,100:2575fc&section=footer&animation=fadeIn"/>
+
+# 🚀 Happy Coding!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;See+you+again!;Keep+Learning+Keep+Building!;Code.+Create.+Innovate.+Repeat." />
+
+⭐ **Made with ❤️ by Durai B**
+
+</div>
+
+<!-- ===================================================== -->
+<!--                 END OF README                         -->
+<!-- ===================================================== -->
