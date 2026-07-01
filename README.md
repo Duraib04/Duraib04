@@ -483,3 +483,319 @@ https://github.com/Duraib04
 ## ⭐ End of Part 2 ⭐
 
 </div>
+<!-- ===================================================== -->
+<!--                 PREMIUM GITHUB PROFILE                -->
+<!--                  PART 3 OF 4                          -->
+<!-- ===================================================== -->
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+> ⚠️ Requires GitHub Actions setup (we'll add it in Part 4)
+
+<img width="100%" src="https://raw.githubusercontent.com/Duraib04/Duraib04/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 👾 Pac-Man Contribution Animation
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg"/>
+
+</div>
+
+---
+
+# 😂 Random Developer Joke
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</div>
+
+---
+
+# 💬 Random Programming Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌍 Fun Developer GIF
+
+<div align="center">
+
+<img width="420" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 Jarvis AI Assistant
+
+🎤 Voice Controlled AI
+
+💬 Chat Interface
+
+🌐 Modern UI
+
+⚡ Fast Performance
+
+🔗 https://durai-jarvis.vercel.app
+
+</td>
+
+<td width="50%">
+
+## 🏫 Smart Classroom
+
+📚 Digital Attendance
+
+📈 Dashboard
+
+📱 Responsive UI
+
+☁ Firebase Integration
+
+🔗 https://ourclassroom.vercel.app
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🏢 DD IoT Solutions
+
+🏠 Smart Home
+
+⚡ Automation
+
+🤖 AI Integration
+
+📡 IoT Solutions
+
+🔗 https://dd-products.vercel.app
+
+</td>
+
+<td>
+
+## 🌐 Portfolio
+
+👨‍💻 Personal Website
+
+📂 Projects
+
+📜 Resume
+
+🎯 Skills
+
+🔗 https://duraib.vercel.app
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📌 Pinned Repository Cards
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Duraib04&repo=ourclassroom&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Duraib04&repo=timepassing&theme=tokyonight"/>
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Duraib04&repo=DD-IOT-Solutions&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Duraib04&repo=Portfolio&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 💡 Developer Mindset
+
+```text
+Think 💭
+
+Plan 📝
+
+Design 🎨
+
+Develop 💻
+
+Test 🧪
+
+Deploy 🚀
+
+Repeat 🔁
+```
+
+---
+
+# 📚 Learning Journey
+
+🟢 HTML ██████████ 100%
+
+🟢 CSS ██████████ 100%
+
+🟢 JavaScript █████████░ 90%
+
+🟢 React █████████░ 90%
+
+🟢 Node.js ████████░░ 80%
+
+🟢 Firebase ████████░░ 80%
+
+🟢 Python ████████░░ 80%
+
+🟢 AI ███████░░░ 70%
+
+🟢 AWS ██████░░░░ 60%
+
+🟢 Docker █████░░░░░ 50%
+
+---
+
+# 🌟 Daily Routine
+
+🌅 Learn Something New
+
+☕ Drink Coffee
+
+💻 Write Code
+
+🐛 Fix Bugs
+
+🚀 Deploy Projects
+
+📚 Read Documentation
+
+😴 Sleep
+
+🔁 Repeat
+
+---
+
+# 🧠 Problem Solving
+
+✔ Data Structures
+
+✔ Algorithms
+
+✔ OOP
+
+✔ DBMS
+
+✔ Operating Systems
+
+✔ Networking
+
+✔ IoT
+
+✔ Artificial Intelligence
+
+---
+
+# ⚡ My Workflow
+
+```text
+Idea 💡
+
+↓
+
+Research 🔍
+
+↓
+
+Planning 📋
+
+↓
+
+Development 💻
+
+↓
+
+Testing 🧪
+
+↓
+
+Deployment 🚀
+
+↓
+
+Maintenance 🔄
+```
+
+---
+
+# ❤️ I Love Working With
+
+🤖 Artificial Intelligence
+
+📡 Internet of Things
+
+🌐 Full Stack Web Development
+
+📱 Progressive Web Apps
+
+☁ Cloud Computing
+
+📊 Data Visualization
+
+🎯 UI/UX
+
+⚙ Automation
+
+---
+
+# 🎮 Fun Facts
+
+⚡ I enjoy solving real-world problems.
+
+🤖 I love building AI-powered applications.
+
+🏠 Smart Home Automation excites me.
+
+🚀 I enjoy participating in Hackathons.
+
+📚 Learning never stops.
+
+🌍 Technology can change lives.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
+
+## ⭐ End of Part 3 ⭐
+
+</div>
