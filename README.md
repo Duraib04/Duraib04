@@ -271,3 +271,215 @@ https://github.com/Duraib04
 ### ⭐ Part 1 Complete ⭐
 
 </div>
+<!-- ===================================================== -->
+<!--                 PREMIUM GITHUB PROFILE                -->
+<!--                  PART 2 OF 4                          -->
+<!-- ===================================================== -->
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Duraib04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duraib04&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Duraib04&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Duraib04&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Duraib04&theme=algolia&no-frame=true&row=2&column=4&margin-w=15"/>
+
+</div>
+
+---
+
+# 📅 GitHub Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/409ba5/Duraib04"/>
+
+</div>
+
+---
+
+# ⚡ Profile Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duraib04&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 GitHub Summary Cards
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Duraib04&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Duraib04&theme=tokyonight"/>
+
+<br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Duraib04&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Duraib04&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 📦 GitHub Metrics
+
+<div align="center">
+
+<img width="100%" src="https://metrics.lecoq.io/Duraib04?template=classic&config.timezone=Asia%2FKolkata"/>
+
+</div>
+
+---
+
+# 🚀 GitHub Profile Details
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duraib04&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🌟 Achievements
+
+🏆 National Level Hackathon Runner-Up
+
+🚀 Founder of DD IoT Solutions
+
+💻 Full Stack Developer
+
+🤖 AI Enthusiast
+
+🔌 IoT Engineer
+
+📱 PWA Developer
+
+🌐 Open Source Learner
+
+---
+
+# 📚 Currently Exploring
+
+- Generative AI
+
+- Large Language Models
+
+- Cloud Computing
+
+- Kubernetes
+
+- Docker
+
+- Next.js
+
+- React Native
+
+- Machine Learning
+
+- Computer Vision
+
+- Edge AI
+
+---
+
+# 🎖 Certifications
+
+✅ Full Stack Development
+
+✅ IoT Development
+
+✅ AI Tools
+
+✅ Firebase
+
+✅ Git & GitHub
+
+✅ Web Development
+
+---
+
+# 📈 Coding Goals 2026
+
+🎯 100+ GitHub Repositories
+
+🎯 1000+ GitHub Contributions
+
+🎯 500+ GitHub Followers
+
+🎯 Build SaaS Products
+
+🎯 Open Source Contributions
+
+🎯 AI-Based Applications
+
+🎯 Smart IoT Products
+
+---
+
+# ⚡ Productivity
+
+☕ Coffee → Code → Deploy
+
+💡 Learn Every Day
+
+🚀 Build Every Week
+
+📚 Read Documentation
+
+🤝 Help Developers
+
+---
+
+# 💬 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
+
+## ⭐ End of Part 2 ⭐
+
+</div>
