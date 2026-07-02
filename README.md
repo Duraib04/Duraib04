@@ -479,7 +479,7 @@ https://github.com/Duraib04
 
 ---
 
-# 🌍 Fun Developer GIF
+# 🌍 my daily fun routine
 
 <div align="center">
 
