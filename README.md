@@ -1,15 +1,8 @@
-<!-- ===================================================== -->
-<!--                 PREMIUM GITHUB PROFILE                -->
-<!--                  PART 1 OF 4                          -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Durai%20B&fontSize=65&fontAlignY=40&animation=fadeIn&desc=IoT%20Engineer%20|%20Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=60"/>
 
 # 👋 Hi, I'm Durai B
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=IoT+Engineer;Full+Stack+Developer;AI+Enthusiast;Entrepreneur;Open+Source+Learner;Building+Smart+Solutions+with+AI+and+IoT🚀;Always+Learning+New+Technologies"/>
 
 <img src="https://komarev.com/ghpvc/?username=Duraib04&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -268,27 +261,8 @@ https://github.com/Duraib04
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
 
-### ⭐ Part 1 Complete ⭐
 
 </div>
-<!-- ===================================================== -->
-<!--                 PREMIUM GITHUB PROFILE                -->
-<!--                  PART 2 OF 4                          -->
-<!-- ===================================================== -->
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Duraib04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duraib04&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -308,15 +282,6 @@ https://github.com/Duraib04
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Duraib04&theme=algolia&no-frame=true&row=2&column=4&margin-w=15"/>
-
-</div>
 
 ---
 
@@ -480,27 +445,9 @@ https://github.com/Duraib04
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
 
-## ⭐ End of Part 2 ⭐
-
-</div>
-<!-- ===================================================== -->
-<!--                 PREMIUM GITHUB PROFILE                -->
-<!--                  PART 3 OF 4                          -->
-<!-- ===================================================== -->
-
----
-
-# 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-> ⚠️ Requires GitHub Actions setup (we'll add it in Part 4)
-
-<img width="100%" src="https://raw.githubusercontent.com/Duraib04/Duraib04/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
----
 
 # 👾 Pac-Man Contribution Animation
 
@@ -619,24 +566,6 @@ https://github.com/Duraib04
 </tr>
 
 </table>
-
----
-
-# 📌 Pinned Repository Cards
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Duraib04&repo=ourclassroom&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Duraib04&repo=timepassing&theme=tokyonight"/>
-
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Duraib04&repo=DD-IOT-Solutions&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Duraib04&repo=Portfolio&theme=tokyonight"/>
-
-</div>
 
 ---
 
@@ -796,15 +725,10 @@ Maintenance 🔄
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
 
-## ⭐ End of Part 3 ⭐
+
 
 </div>
-<!-- ===================================================== -->
-<!--                 PREMIUM GITHUB PROFILE                -->
-<!--                  PART 4 OF 4                          -->
-<!-- ===================================================== -->
 
----
 
 # 🎯 2026 Goals
 
@@ -955,38 +879,16 @@ If you like my work:
 
 ---
 
-# 🐍 Snake Animation (Requires GitHub Action)
+# 🎵 Spotify 
 
-```md
-<p align="center">
-<img src="https://raw.githubusercontent.com/Duraib04/Duraib04/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-```
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31lr5bhyyh2bobna5ur2eqollhyq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view)
 
 ---
-
-# 📊 Metrics Dashboard (Requires GitHub Action)
-
 ```md
-<img src="./github-metrics.svg"/>
-```
-
----
-
-# 🎵 Spotify (Optional)
-
-Replace `YOUR_SPOTIFY_USER_ID`:
-
-```md
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view)
-```
-
----
-
 # 🏅 Holopin (Optional)
 
 Replace `YOUR_USERNAME`:
-
+```
 ```md
 [![@YOUR_USERNAME's Holopin board](https://holopin.me/YOUR_USERNAME)](https://holopin.io/@YOUR_USERNAME)
 ```
@@ -1034,7 +936,3 @@ Let's build amazing things together! 🚀
 ⭐ **Made with ❤️ by Durai B**
 
 </div>
-
-<!-- ===================================================== -->
-<!--                 END OF README                         -->
-<!-- ===================================================== -->
